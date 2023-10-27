@@ -12,7 +12,7 @@ public class IntRepresentation {
     int h = 'h';
     int a = 'a';
     int r = 'r';
-    System.out.println('c');
+    System.out.println("char");
 
     }
 }
