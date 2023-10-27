@@ -8,11 +8,14 @@ public class IntRepresentation {
        a 97	0000000001100001	61	141	&#97;
        r 114	0000000001110010	72	162	&#114;
         */
-    int c = 'c';
-    int h = 'h';
-    int a = 'a';
-    int r = 'r';
-    System.out.println("char");
+    char c = 99;
+    char h = 104;
+    char a = 97;
+    char r = 114;
+    System.out.print(c);
+        System.out.print(h);
+        System.out.print(a);
+        System.out.print(r);
 
     }
 }
